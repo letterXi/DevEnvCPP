@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools-extension-pack",
+        "cheshirekow.cmake-format",
+        "pkief.material-icon-theme",
+        "ms-vscode.vscode-json",
+        "redhat.vscode-yaml"
+    ]
+}
